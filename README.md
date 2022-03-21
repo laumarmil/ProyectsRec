@@ -1,2 +1,2 @@
 # ProyectsRec
-proyectos de recuperacion de disrintas asignaturas
+proyectos de recuperacion de distintas asignaturas
